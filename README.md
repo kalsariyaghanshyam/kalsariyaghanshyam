@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer | 4+ Years Experience | Mobile App Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+Clean+Architecture;5%2B+Years+Building+Production+Apps;Android+%26+iOS+%7C+Firebase+%7C+Real-Time+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+Clean+Architecture;4%2B+Years+Building+Production+Apps;Android+%26+iOS+%7C+Firebase+%7C+Real-Time+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
